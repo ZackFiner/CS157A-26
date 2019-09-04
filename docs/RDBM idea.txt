@@ -26,7 +26,7 @@ has been resolved.
 	c. what is the mean resolution time (how long it takes from a production incident being reported to resolution)
 
 Technology:
-Angular.js SPA
+React.js SPA
 Node.js
 
 With libraries, we can get identity going, adding a few relations
