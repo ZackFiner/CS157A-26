@@ -1,0 +1,32 @@
+Production Incident Management:
+
+Stakeholders:
+Any software company will need to manage production incidents. On top of management of these production incidents, the corporation will
+also need to gather analytics on any production incidents that have occured (such as what systems are usually effected, and what possible
+sources of these production incidents are) so they can correctly direct developers to resolve the source of these issues.
+
+Our database management service will streamline the process of collecting, monitoring, and analyzing production incidents.
+
+Possible relations:
+Product/Software (what product or application was effect by this production incident)
+Department/Team (who do/did we need to contact in our company to fix this problem?)
+Client (Who was affected by this incident?)
+Incident (descriptions of production incidents)
+Resolution Record (descriptions of production incident resolution, what the problem seemed to originate from)
+
+Features:
+>Allow tech support to file a production incident
+>Middleware should automatically notify team responsible for managing the software in question
+>Allow developer/team member to enter a "incident resolution" report for a given production incident
+>Automatically notify the client/end user, and or tech support person in contact with the client that the issue
+has been resolved.
+>Allow for analytics on production incidents, such as:
+	a. what products/applications have the most production incidents?
+	b. what clients/end users are most affected by production incidents?
+	c. what is the mean resolution time (how long it takes from a production incident being reported to resolution)
+
+Technology:
+Angular.js SPA
+Node.js
+
+With libraries, we can get identity going, adding a few relations
