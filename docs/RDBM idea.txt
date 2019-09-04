@@ -30,3 +30,16 @@ React.js SPA
 Node.js
 
 With libraries, we can get identity going, adding a few relations
+
+Non-Functional Issues:
+We will be using Facebook's React library to build the GUI of our application. React is a popular frontend framework among web developers
+because it makes the task of building an app's GUI much easier and simpler by breaking the various parts of a web page into encapsulated
+components. Knowing this, the team decided to use this technology so that the team can spend more time on the backend implementation
+and interactions with the database.
+
+Along with React, the team will also use Google's Material UI framework to make our GUI more responsive to varying screen sizes
+and uniform in its overall styling. Using Material UI would also make our frontend much easier to implement and thus the team can 
+spend more time on the backend and database.
+
+For the security of our app and its users, we will be using various libraries for hashing and salting user credentials, Web tokens for
+keeping track of sessions and access control, and user authorization.
