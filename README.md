@@ -6,6 +6,7 @@
 * Dale Christian Seen
 
 # Project Overview
+* [Proposal](https://docs.google.com/document/d/1IcwN95EiWhgI9mjhy-N-dl5jltKNnzZ_7_KFy-NgPNA/edit)
 Our database management service will streamline the process of collecting, monitoring, and analyzing production incidents.
 
 Any software company will need to manage production incidents. On top of management of these production incidents, the corporation will also need to gather analytics on any production incidents that have occurred (such as what systems are usually effected, and what possible sources of these production incidents are) so they can correctly direct developers to resolve the source of these issues.
