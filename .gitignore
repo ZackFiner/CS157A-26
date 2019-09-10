@@ -24,3 +24,9 @@ hs_err_pid*
 
 # For macs
 .DS_STORE
+
+# Application Dependencies
+node_modules/
+
+# MySQL Database Key
+config/key.js
