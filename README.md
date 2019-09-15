@@ -1,11 +1,2 @@
-# CS157A-26
-## **Production Incident Management - Team 26**
-### Members:
-* Zackary Finer
-* Antoine Ngu
-* Dale Christian Seen
-
-## Project Proposal Document (Google Docs)
-* [Link](https://docs.google.com/document/d/1IcwN95EiWhgI9mjhy-N-dl5jltKNnzZ_7_KFy-NgPNA/edit)
-
-
+# DEPRECIATED
+New repo found at: https://github.com/CS157-26/CS157-26
